@@ -2,9 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.josvth.randomspawn.randomspawn</groupId>
   <artifactId>Random-Spawn</artifactId>
-  <version>2.6</version>
+  <version>2.7-zugmc</version>
   <name>Random-Spawn</name>
-  <url>https://github.com/Josvth/Random-Spawn</url>
+  <url>https://github.com/zugmc/Random-Spawn</url>
 
   <repositories>
     <repository>
